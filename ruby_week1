@@ -1,1 +1,7 @@
-Lab 2: Ruby Data Types, Variables, Constants, Operators, Expressions, and Scope
+name = "Kaya"
+major = "None"
+reason = "I still don't quite know what I want to do as a career."
+
+puts "Name: #{name}"
+puts "Major: #{major}"
+puts "Reason for learning Ruby: #{reason}"
