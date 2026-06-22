@@ -1,0 +1,18 @@
+student_name = “Student”
+current_units = 12
+age = 22
+new_course_units = 4
+gpa = 3.5
+
+MAX_UNITS = 21
+puts “Student”: #{student_name}”
+puts “Total Units: #{total_units}”
+
+total_units = current_units + new_course_units
+
+if total units <=MAX_UNITS
+puts “Registration Accepted”
+else
+puts “Registration Denied”
+end
+
